@@ -48,6 +48,10 @@ int MIN(int a,int b){
 
 int main(void)
 {
+  int resultsom = som(4,3); 
+  int resultmult = mult(4,3); 
+  int resultmax = max(4,3); 
+  int resultmin = min(4,3); 
 
 
 
